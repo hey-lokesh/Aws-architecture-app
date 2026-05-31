@@ -1,0 +1,24 @@
+@import "tailwindcss";
+.orbit {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  border: 1px dashed #e5e7eb;
+  border-radius: 9999px;
+  transform: translate(-50%, -50%);
+}
+
+.orbit1 {
+  width: 450px;
+  height: 450px;
+}
+
+.orbit2 {
+  width: 550px;
+  height: 550px;
+}
+
+.orbit3 {
+  width: 650px;
+  height: 650px;
+}
